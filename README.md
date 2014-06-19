@@ -1,4 +1,4 @@
-# [knex.js](http://knexjs.org) [![Build Status](https://travis-ci.org/tgriesser/knex.png?branch=master)](https://travis-ci.org/tgriesser/knex) [![Coverage Status](https://img.shields.io/coveralls/chesleybrown/knex.svg)](https://coveralls.io/r/chesleybrown/knex?branch=master)
+# [knex.js](http://knexjs.org) [![Build Status](https://travis-ci.org/tgriesser/knex.svg?branch=master)](https://travis-ci.org/tgriesser/knex) [![Coverage Status](https://img.shields.io/coveralls/chesleybrown/knex.svg)](https://coveralls.io/r/chesleybrown/knex?branch=master)
 
 A SQL query builder that is flexible, portable, and fun to use!
 
